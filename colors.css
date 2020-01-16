@@ -1,0 +1,80 @@
+h1
+{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+div
+{
+    align-self: center;
+}
+
+table
+{
+  margin: auto;
+}
+
+#canvas
+{
+  align-self: center;
+  width: 100%;
+}
+
+#panel1
+{
+  height:inherit;
+  text-align: center;
+  margin: 2px;
+  color: #fcf803;
+  background-color: #fcf803;
+}
+
+#panel2
+{
+  height: inherit;
+  text-align: center;
+  margin: 2px;
+  color: #94fc03;
+  background-color: #94fc03;
+}
+
+#panel3
+{
+  height: inherit;
+  text-align: center;
+  margin: 2px;
+  color: #03fcd3;
+  background-color: #03fcd3;
+}
+
+#panel4
+{
+  height: inherit;
+  text-align: center;
+  margin: 2px;
+  color: #0373fc;
+  background-color: #0373fc;
+}
+
+#panel5
+{
+  height: inherit;
+  text-align: center;
+  margin: 2px;
+  color: #8c03fc;
+  background-color: #8c03fc;
+}
+
+.panels
+{
+  height: 300px;
+  text-align: center;
+  width: 150px;
+  align-self: center;
+}
+
+#top
+{
+  text-align: center;
+  margin: auto;
+}
